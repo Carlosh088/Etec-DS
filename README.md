@@ -1,2 +1,2 @@
 # Etec-DS
-Repositório para meus projetos ao longo do curso técnico de Desenvolvimento de Sistemas na Etec.
+Repositório para meus projetos do curso técnico de Desenvolvimento de Sistemas na Etec.
